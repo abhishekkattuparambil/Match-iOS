@@ -4,7 +4,5 @@ Match is designed to be somewhat of a social media platform for grassroots crick
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img width="150" height = "322.668810289" alt="SignIn Page" src="images/signIn.png">| <img width="150" height = "322.668810289" alt="SignUp Page" src="images/signUp.png">| <img width="150" height = "322.668810289" alt="Profile Page" src="images/profile.png">|
-|Sign In|Sign Up|Profile|
-| <img width="150" height = "322.668810289" alt="Edit Profile Page" src="images/editProfile.png">| <img width="150" height = "322.668810289" alt="Map Page" src="images/pin.png">| <img width="150" height = "322.668810289" alt="Route Page" src="images/route.png">|
-|Edit Profile|Map|Maps Integration|
+| <img width="150" height = "322.668810289" alt="SignIn Page" src="images/signIn.png">| <img width="150" height = "322.668810289" alt="SignUp Page" src="images/signUp.png">| <img width="150" height = "322.668810289" alt="Edit Profile Page" src="images/editProfile.png">| <img width="150" height = "322.668810289" alt="Map Page" src="images/pin.png">| <img width="150" height = "322.668810289" alt="Route Page" src="images/route.png">|
+|Sign In|Sign Up|Edit Profile|Map|Maps Integration|
