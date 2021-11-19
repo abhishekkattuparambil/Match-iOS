@@ -9,6 +9,5 @@ Utilizes Firebase to store user and team data, MapKit for the map which supports
 | <img width="150" height = "322.668810289" alt="SignIn Page" src="images/signIn.png">| <img width="150" height = "322.668810289" alt="SignUp Page" src="images/signUp.png">| <img width="150" height = "322.668810289" alt="Edit Profile Page" src="images/editProfile.png">| 
 |Sign In|Sign Up|Edit Profile|
 | | |
-|:-------------------------:|:-------------------------:|
 |<img width="150" height = "322.668810289" alt="Map Page" src="images/pin.png">| <img width="150" height = "322.668810289" alt="Route Page" src="images/route.png">|
 |Map|Maps Integration|
