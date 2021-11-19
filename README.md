@@ -5,9 +5,10 @@ Match is designed to be somewhat of a social media platform for grassroots crick
 Utilizes Firebase to store user and team data, MapKit for the map which supports zoom/scroll/search functionality. There car icon on the ground pins opens Google Maps directing the user to the location, and the CricClubs link on the profile page redirects to the user's profile on Safari. Pins are queried based on longitude and latitude, and players can only book grounds if they are within a certain raidus of it. 
 
 | | | |
-| | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|:-------------------------:|:-------------------------:|
-| <img width="150" height = "322.668810289" alt="SignIn Page" src="images/signIn.png">| <img width="150" height = "322.668810289" alt="SignUp Page" src="images/signUp.png">| <img width="150" height = "322.668810289" alt="Edit Profile Page" src="images/editProfile.png">| <img width="150" height = "322.668810289" alt="Map Page" src="images/pin.png">| <img width="150" height = "322.668810289" alt="Route Page" src="images/route.png">|
+| <img width="150" height = "322.668810289" alt="SignIn Page" src="images/signIn.png">| <img width="150" height = "322.668810289" alt="SignUp Page" src="images/signUp.png">| <img width="150" height = "322.668810289" alt="Edit Profile Page" src="images/editProfile.png">| 
 |Sign In|Sign Up|Edit Profile|
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="150" height = "322.668810289" alt="Map Page" src="images/pin.png">| <img width="150" height = "322.668810289" alt="Route Page" src="images/route.png">|
 |Map|Maps Integration|
